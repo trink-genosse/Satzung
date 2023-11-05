@@ -41,7 +41,7 @@ sind nur zulässig, wenn dies der Förderung der Mitglieder dient.
 2. Es gibt zwei Arten von Mitgliedern: Aktive Mitglieder und investierende Mitglieder<br />
 3. Aktive Mitglieder können lediglich natürliche Personen werden.<br />
 4. Voraussetzung für eine aktive Mitgliedschaft ist:<br />
-: a. die Nutzung der Leistungen der Genossenschaft<br />
+> a. die Nutzung der Leistungen der Genossenschaft<br />
 b. die aktive Unterstützung der Genossenschaft<br />
 durch: Bewerbung des Projekts, Teilnahme an Meinungsbildungsprozessen,
 Mitarbeit in diversen Arbeitsgruppen und Betätigungsfeldern.
