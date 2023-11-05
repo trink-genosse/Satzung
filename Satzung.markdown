@@ -1,4 +1,3 @@
-<script src="https://rawcdn.githack.com/oscarmorrison/md-page/master/md-page.js"></script><noscript>
 <h1>Satzung der Trink—Genosse eG </h1>
 <h2>Präambel</h2>
 Wir glauben an Gemeinschaft, Freundschaft und ein solidarisches Miteinander. Im Kollektiv
