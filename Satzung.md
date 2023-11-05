@@ -102,7 +102,7 @@ durch die Generalversammlung beschlossen wird.
 <h2>§ 7 Kündigung</h2>
 Die Frist für die Kündigung der Mitgliedschaft oder einzelner, freiwilliger Anteile beträgt 12
 Monate zum Schluss des Geschäftsjahres. Die Kündigung bedarf der Schriftform.
-§ 8 Übertragung des Geschäftsguthabens</h2>
+<h2>§ 8 Übertragung des Geschäftsguthabens</h2>
 Jedes Mitglied kann sein Geschäftsguthaben jederzeit durch schriftliche Vereinbarung einem
 anderen ganz oder teilweise übertragen und hierdurch seine Mitgliedschaft ohne
 Auseinandersetzung beenden oder die Anzahl seiner Geschäftsanteile verringern, sofern
