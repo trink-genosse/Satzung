@@ -15,9 +15,9 @@ Gestaltung einer Bar und die Vergabe von Gelegenheits-, Voll- und Teilzeitarbeit
 sowie Rückvergütungen aus dem Mitgliedergeschäft.
 Potenzielle Überschüsse sollen nach Möglichkeit in folgendem Verhältnis verteilt werden:
 1. Mindestens 50% für den Fortbestand der Genossenschaft, sowie die Verbreitung
-von Idee und Methoden.  
-2. Mindestens 10% für karitative Zwecke  
-3. Maximal 40 % können in Form von Dividenden an die Mitglieder verteilt werden.  
+von Idee und Methoden.<br />
+2. Mindestens 10% für karitative Zwecke<br /> 
+3. Maximal 40 % können in Form von Dividenden an die Mitglieder verteilt werden.<br />
 <h2>§ 1 Name, Sitz</h2>
 1. Die Genossenschaft heißt TRINK—GENOSSE eG.
 2. Der Sitz der Genossenschaft ist Köln.
